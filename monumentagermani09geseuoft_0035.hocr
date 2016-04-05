@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./monumentagermani09geseuoft_0035.png"; bbox 0 0 2118 3122; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 397 982 1602 1075">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 397 982 1602 1075">
+     <span class='ocr_line' id='line_1_1' title="bbox 397 982 1602 1075; baseline -0.011 1"><span class='ocrx_word' id='word_1_1' title='bbox 397 982 1602 1075; x_wconf 75' lang='lat' dir='ltr'><strong>CHRONOGRAPHVS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 757 1296 1241 1345">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 757 1296 1241 1345">
+     <span class='ocr_line' id='line_1_2' title="bbox 757 1296 1241 1345; baseline -0.01 0"><span class='ocrx_word' id='word_1_2' title='bbox 757 1299 920 1345; x_wconf 90' lang='lat' dir='ltr'>ANNI</span> <span class='ocrx_word' id='word_1_3' title='bbox 964 1296 1241 1343; x_wconf 82' lang='lat' dir='ltr'><strong>CCCLIIII.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 879 1558 1120 1591">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 879 1558 1120 1591">
+     <span class='ocr_line' id='line_1_3' title="bbox 879 1558 1120 1591; baseline -0.017 0"><span class='ocrx_word' id='word_1_4' title='bbox 879 1558 1120 1591; x_wconf 72' lang='lat' dir='ltr'><strong>ACCEDVNT</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 660 1692 1381 1735">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 660 1692 1381 1735">
+     <span class='ocr_line' id='line_1_4' title="bbox 660 1692 1381 1735; baseline -0.012 0"><span class='ocrx_word' id='word_1_5' title='bbox 660 1700 686 1735; x_wconf 97' lang='grc' dir='ltr'>Ι.</span> <span class='ocrx_word' id='word_1_6' title='bbox 716 1694 1058 1735; x_wconf 74' lang='lat' dir='ltr'>COMPVTA&#39;HO</span> <span class='ocrx_word' id='word_1_7' title='bbox 1088 1696 1134 1730; x_wconf 88' lang='lat' dir='ltr'>A.</span> <span class='ocrx_word' id='word_1_8' title='bbox 1164 1692 1381 1730; x_wconf 74' lang='lat' dir='ltr'>CCCCLH.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 640 1797 1261 1838">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 640 1797 1261 1838">
+     <span class='ocr_line' id='line_1_5' title="bbox 640 1797 1261 1838; baseline -0.013 0"><span class='ocrx_word' id='word_1_9' title='bbox 640 1803 686 1838; x_wconf 88' lang='lat'>11.</span> <span class='ocrx_word' id='word_1_10' title='bbox 717 1801 873 1838; x_wconf 73' lang='lat' dir='ltr'>LIBER</span> <span class='ocrx_word' id='word_1_11' title='bbox 901 1800 1003 1835; x_wconf 83' lang='lat' dir='ltr'>GEN</span> <span class='ocrx_word' id='word_1_12' title='bbox 1012 1799 1075 1834; x_wconf 81' lang='lat' dir='ltr'>EA</span> <span class='ocrx_word' id='word_1_13' title='bbox 1084 1798 1182 1833; x_wconf 74' lang='lat' dir='ltr'>LOG</span> <span class='ocrx_word' id='word_1_14' title='bbox 1192 1797 1261 1831; x_wconf 81' lang='lat' dir='ltr'>VS.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
